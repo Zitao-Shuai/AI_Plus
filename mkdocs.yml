@@ -1,5 +1,5 @@
 nav:
-  - 🏡 主页: # person/
+  - 🏡 主页: # docs/person/
     - index.md
     - ❤️ 我和朋友们！: person/about.md
     - 📆 最近更新: recent.md
